@@ -3,21 +3,21 @@
     {
       "id": "1",
       "name": "John Doe",
-      "email": "john@example.com",
+      "email": "john@email.com",
       "password": "123456",
       "photo": "https://img.freepik.com/fotos-gratis/vista-de-um-macaco-engracado-com-a-boca-aberta_23-2150758324.jpg?size=626&ext=jpg"
     },
     {
       "id": "2",
       "name": "Carol Fedorenta",
-      "email": "carol@example.com",
+      "email": "carol@email.com",
       "password": "123456",
       "photo": "https://img.freepik.com/fotos-gratis/retrato-de-macaco-de-cauda-longa_181624-34646.jpg?size=626&ext=jpg"
     },
     {
       "id": "3",
       "name": "Aquiles",
-      "email": "aquiles@example.com",
+      "email": "aquiles@email.com",
       "password": "123456",
       "photo": "https://img.freepik.com/fotos-gratis/macaco-alegre-com-oculos_23-2151058726.jpg?size=626&ext=jpg"
     }
